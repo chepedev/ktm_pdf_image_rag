@@ -48,6 +48,14 @@ doesn't know — this is called *hallucination*. By forcing the bot to answer **
 from your documents** and to **cite the page**, you get answers you can trust and
 verify. That technique has a name: **RAG**.
 
+
+### TIP: Use it with your own AI assistant
+> I have my own version of Jarvis running openclaw on its own machine at home
+> Jarvis now is power enabled to give me answers through telegram all time about my bike
+> YEEES!!! I started this because I wanted to get answers for the maintainance of my bike
+
+<img width="792" height="813" alt="image" src="https://github.com/user-attachments/assets/6c1df2f4-14f0-489c-8033-db912bd0ac50" />
+
 ---
 
 ## 2. Concepts you need first (the 10-minute AI primer)
