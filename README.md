@@ -53,6 +53,7 @@ verify. That technique has a name: **RAG**.
 > I have my own version of Jarvis running openclaw on its own machine at home
 > Jarvis now is power enabled to give me answers through telegram all time about my bike
 > YEEES!!! I started this because I wanted to get answers for the maintainance of my bike
+> THAT EXPLAINS THE NAME! KTM! :D 
 
 <img width="792" height="813" alt="image" src="https://github.com/user-attachments/assets/6c1df2f4-14f0-489c-8033-db912bd0ac50" />
 
